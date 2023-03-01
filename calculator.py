@@ -27,4 +27,4 @@ def __MAIN():
     result = __calculator(operation=operation , numOne= firstNumber , numTwo=secondNumber)
     print(__result(result))  
     
-__MAIN();
+__MAIN()
